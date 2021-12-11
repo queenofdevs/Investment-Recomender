@@ -1,0 +1,34 @@
+
+.carousel-inner img {
+      width: 70%;
+      height: 600px;
+      margin: 20px;
+      margin-left: 15%;
+      margin-right: 15%;
+    }
+
+    .carousel-caption
+    {
+      color: whitesmoke;
+    }
+
+    body
+    {
+      background-color: black;
+    }
+
+    .form-inline
+    {
+      float: right;
+      margin-left: 70%;
+    }
+    
+    .Explore
+    {
+      
+      color: black;
+      margin: 10px;
+      margin-left: 300px;
+
+      background-color: green;
+    }
